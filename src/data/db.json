@@ -1,0 +1,533 @@
+
+[{
+    "activities": [
+      {
+        "id": "1",
+        "name": "Visite guidée à pied de Paris",
+        "title": "Visite guidée à pied de Paris",
+        "description": "Découvrez les sites les plus célèbres de Paris lors d'une visite guidée à pied de 3 heures avec un guide professionnel.",
+        "image": "https://www.getyourguide.com/img/tour_1.jpg",
+        "price": "49.99",
+        "availability": "disponible",
+        "location": "Paris, France",
+        "duration": "3 heures",
+        "departure": "09:00",
+        "age_minimum": "18 ans",
+        "physical_level": "facile",
+        "languages": "français, anglais",
+        "restrictions": "vegan, végétarien",
+        "equipment": "confortable chaussures de marche",
+        "category": "visites à pied",
+        "payment_methods":"carte de crédit",
+        "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+        "interest": "histoire, architecture",
+        "on_demand": "non",
+        "minimum_number": "1",
+        "transport": "non inclus",
+        "inclusions": [
+            "matériel de plongée inclus",
+            "encadrement par un moniteur diplômé"
+          ],
+        "booking_options": "instantané, programmé",
+        "rating": 4.5, 
+        "photo_album": "https://www.getyourguide.com/img/tour_1_album.jpg",
+        "category_id": "5"
+      },
+      {
+        "id": "2",
+        "name": "Croisière en bateau sur la Seine",
+        "title": "Croisière en bateau sur la Seine",
+        "description": "Profitez d'une croisière en bateau sur la Seine et admirez les plus beaux sites de Paris tels que la Tour Eiffel et Notre Dame.",
+        "image": "https://www.getyourguide.com/img/tour_2.jpg",
+        "price": "39.99",
+        "availability": "disponible",
+        "location": "Paris, France",
+        "duration": "2 heures",
+        "departure": "14:00",
+        "age_minimum": "5 ans",
+        "physical_level": "facile",
+        "languages": "français, anglais",
+        "dietary_restrictions": "aucune",
+        "equipment": "vêtements chauds en hiver",
+        "category": "croisières",
+        "payment_methods":"carte de crédit",
+        "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+        "interest": "histoire, vue panoramique",
+        "on_demand": "non",
+        "minimum_number": "1",
+        "transport": "non inclus",
+        "booking_options": "instantané, programmé",
+        "inclusions": [
+            "matériel de plongée inclus",
+            "encadrement par un moniteur diplômé"
+          ],
+        "rating": 4.5, 
+        "photo_album": "https://www",
+        "category_id": "6"
+    },
+    {
+      "id": "3",
+      "name": "Dégustation de vin dans la région de Bordeaux",
+      "title": "Dégustation de vin dans la région de Bordeaux", 
+      "description": "Partez pour une journée de dégustation de vin dans la région de Bordeaux et découvrez les meilleurs vignobles de la région.",
+      "image": "https://www.getyourguide.com/img/tour_3.jpg",
+      "price": "129.99",
+      "availability": "disponible",
+      "location": "Bordeaux, France",
+      "duration": "8 heures",
+      "departure": "09:00",
+      "age_minimum": "18 ans",
+      "physical_level": "facile",
+      "languages": "français, anglais",
+      "dietary_restrictions": "vegan, végétarien",
+      "equipment": "confortable chaussures de marche",
+      "category": "visites de vignobles",
+      "payment_methods":"carte de crédit",
+      "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+      "interest": "dégustation de vin, histoire",
+      "on_demand": "non",
+      "minimum_number": "1",
+      "transport": "inclus",
+      "inclusions": [
+        "matériel de plongée inclus",
+        "encadrement par un moniteur diplômé"
+      ],
+      "booking_options": "instantané, programmé",
+      "rating": 4.5, 
+      "photo_album": "https://www.getyourguide.com/img/tour_3_album.jpg",
+      "category_id": "8"
+    },
+    {
+      "id": "4",
+      "name": "Visite de la cathédrale Notre Dame",
+      "title": "Visite de la cathédrale Notre Dame",
+      "description": "Explorez l'une des cathédrales les plus célèbres du monde avec un guide professionnel et découvrez son riche patrimoine historique.",
+      "image": "https://www.getyourguide.com/img/tour_4.jpg",
+      "price": "29.99",
+      "availability": "disponible",
+      "location": "Paris, France",
+      "duration": "1 heure 30 minutes",
+      "departure": "11:00",
+      "age_minimum": "8 ans",
+      "physical_level": "facile",
+      "languages": "français, anglais, allemand",
+      "dietary_restrictions": "aucune",
+      "equipment": "aucun",
+      "category": "visites de cathédrales",
+      "payment_methods":"carte de crédit",
+      "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+      "interest": "histoire, architecture",
+      "on_demand": "non",
+      "minimum_number": "1",
+      "transport": "non inclus",
+      "inclusions": [
+        "matériel de plongée inclus",
+        "encadrement par un moniteur diplômé"
+      ],
+      "booking_options": "instantané, programmé",
+      "rating": 4.5, 
+      "photo_album": "https://www.getyourguide.com/img/tour_4_album.jpg",
+      "category_id": "7"
+    },
+   
+    {
+      "id": "5",
+      "name": "Visite du Louvre",
+      "title": "Visite du Louvre",
+      "description": "Découvrez les chefs-d'œuvre de l'un des musées les plus célèbres au monde avec un guide professionnel.",
+      "image": "https://www.getyourguide.com/img/tour_6.jpg",
+      "price": "39.99",
+      "availability": "disponible",
+      "location": "Paris, France",
+      "duration": "2 heures",
+      "departure": "10:00",
+      "age_minimum": "6 ans",
+      "physical_level": "facile",
+      "languages": "français, anglais, espagnol",
+      "dietary_restrictions": "aucune",
+      "equipment": "aucun",
+      "category": "visites de musées",
+      "payment_methods":"carte de crédit",
+      "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+      "interest": "art, histoire",
+      "on_demand": "non",
+      "minimum_number": "1",
+      "transport": "non inclus",
+      "inclusions": [
+        "matériel de plongée inclus",
+        "encadrement par un moniteur diplômé"
+      ],
+      "booking_options": "instantané, programmé",
+      "rating": 4.5, 
+      "photo_album": "https://www.getyourguide.com/img/tour_6_album.jpg",
+      "category_id": "2"
+    },
+    {
+      "id": "6",
+      "name": "Excursion en bus à Mont Saint-Michel",
+      "title": "Excursion en bus à Mont Saint-Michel",
+      "description": "Partez pour une journée à la découverte du célèbre Mont Saint-Michel en bus avec un guide professionnel.",
+      "image": "https://www.getyourguide.com/img/tour_7.jpg",
+      "price": "99.99",
+      "availability": "disponible",
+      "location": "Paris, France",
+      "duration": "8 heures",
+      "departure": "09:00",
+      "age_minimum": "4 ans",
+      "physical_level": "facile",
+      "languages": "français, anglais",
+      "dietary_restrictions": "vegan, végétarien",
+      "equipment": "confortable chaussures de marche",
+      "category": "excursions en bus",
+      "payment_methods":"carte de crédit",
+      "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+      "interest": "histoire, architecture",
+      "on_demand": "non",
+      "minimum_number": "1",
+      "transport": "inclus",
+      "inclusions": [
+        "matériel de plongée inclus",
+        "encadrement par un moniteur diplômé"
+      ],
+      "booking_options": "instantané, programmé",
+      "rating": 4.5, 
+      "photo_album": "https://www.getyourguide.com/img/tour_7_album.jpg",
+      "category_id": "3"
+    },
+    
+    {
+      "id": "7",
+      "name": "Excursion d'une journée à la Dune du Pilat",
+      "title": "Excursion d'une journée à la Dune du Pilat",
+      "description": "Partez pour une journée à la découverte de la célèbre Dune du Pilat, la plus haute dune d'Europe, en bus avec un guide professionnel.",
+      "image": "https://www.getyourguide.com/img/tour_9.jpg",
+      "price": "119.99",
+      "availability": "disponible",
+      "location": "Bordeaux, France",
+      "duration": "8 heures",
+      "departure": "09:00",
+      "age_minimum": "4 ans",
+      "physical_level": "facile",
+      "languages": "français, anglais",
+      "dietary_restrictions": "vegan, végétarien",
+      "equipment": "confortable chaussures de marche",
+      "category": "excursions en bus",
+      "payment_methods":"carte de crédit",
+      "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+      "interest": "nature, paysages",
+      "on_demand": "non",
+      "minimum_number": "1",
+      "transport": "inclus",
+      "inclusions": [
+        "matériel de plongée inclus",
+        "encadrement par un moniteur diplômé"
+      ],
+      "booking_options": "instantané, programmé",
+      "rating": 4.5, 
+      "photo_album": "https://www.getyourguide.com/img/tour_9_album.jpg",
+      "category_id": "3"
+    },
+    {
+      "id": "8",
+      "name": "Visite de la Tour Eiffel",
+      "title": "Visite de la Tour Eiffel",
+      "description": "Profitez d'une visite de la célèbre Tour Eiffel avec un guide professionnel et admirez la vue panoramique sur Paris.",
+      "image": "https://www.getyourguide.com/img/tour_10.jpg",
+      "price": "49.99",
+      "availability": "disponible",
+      "location": "Paris, France",
+      "duration": "1 heure 30 minutes",
+      "departure": "13:00",
+      "age_minimum": "8 ans",
+      "physical_level": "moyen",
+      "languages": "français, anglais, espagnol",
+      "dietary_restrictions": "aucune",
+      "equipment": "aucun",
+      "category": "visites de monuments",
+      "payment_methods":"carte de crédit",
+      "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+      "interest": "histoire, vue panoramique",
+      "on_demand": "non",
+      "minimum_number": "1",
+      "transport": "non inclus",
+      "inclusions": [
+        "matériel de plongée inclus",
+        "encadrement par un moniteur diplômé"
+      ],
+      "booking_options": "instantané, programmé",
+      "rating": 4.5, 
+      "photo_album": "https://www.getyourguide.com/img/tour_10_album.jpg",
+      "category_id": "4"
+    },
+   
+    {
+      "id": "9",
+      "name": "Visite de la Basilique du Sacré-Cœur",
+      "title": "Visite de la Basilique du Sacré-Cœur",
+      "description": "Découvrez l'un des plus beaux monuments de Paris avec un guide professionnel et admirez la vue panoramique sur la ville.",
+      "image": "https://www.getyourguide.com/img/tour_12.jpg",
+      "price": "29.99",
+      "availability": "disponible",
+      "location": "Paris, France",
+      "duration": "1 heure 30 minutes",
+      "departure": "10:00",
+      "age_minimum": "8 ans",
+      "physical_level": "facile",
+      "languages": "français, anglais, espagnol",
+      "dietary_restrictions": "aucune",
+      "equipment": "aucun",
+      "category": "visites de basiliques",
+      "payment_methods":"carte de crédit",
+      "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+      "interest": "histoire, architecture",
+      "on_demand": "non",
+      "minimum_number": "1",
+      "transport": "non inclus",
+      "inclusions": [
+        "matériel de plongée inclus",
+        "encadrement par un moniteur diplômé"
+      ],
+      "booking_options": "instantané, programmé",
+      "rating": 4.5, 
+      "photo_album": "https://www.getyourguide.com/img/tour_12_album.jpg",
+      "category_id": "7"
+    },
+    {
+      "id": "10",
+      "name": "Excursion en bus à la côte d'Azur",
+      "title": "Excursion en bus à la côte d'Azur",
+      "description": "Partez pour une journée à la découverte de la côte d'Azur en bus avec un guide professionnel et découvrez les plus beaux villages de la région.",
+      "image": "https://www.getyourguide.com/img/tour_13.jpg",
+      "price": "129.99",
+      "availability": "disponible",
+      "location": "Nice, France",
+      "duration": "8 heures",
+      "departure": "09:00",
+      "age_minimum": "4 ans",
+      "physical_level": "facile",
+      "languages": "français, anglais",
+      "dietary_restrictions": "vegan, végétarien",
+      "equipment": "confortable chaussures de marche",
+      "category": "excursions en bus",
+      "payment_methods":"carte de crédit",
+      "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+      "interest": "nature, paysages",
+      "on_demand": "non",
+      "minimum_number": "1",
+      "transport": "inclus",
+      "inclusions": [
+        "matériel de plongée inclus",
+        "encadrement par un moniteur diplômé"
+      ],
+      "booking_options": "instantané, programmé",
+      "rating": 4.5, 
+      "photo_album": "https://www.getyourguide.com/img/tour_13_album.jpg",
+      "category_id": "3"
+    },
+   
+    {
+      "id": "11",
+      "name": "Visite de la Cathédrale de Chartres",
+      "title": "Visite de la Cathédrale de Chartres",
+      "description": "Découvrez l'une des plus belles cathédrales de France avec un guide professionnel et admirez ses superbes vitraux.",
+      "image": "https://www.getyourguide.com/img/tour_15.jpg",
+      "price": "29.99",
+      "availability": "disponible",
+      "location": "Chartres, France",
+      "duration": "1 heure 30 minutes",
+      "departure": "11:00",
+      "age_minimum": "8 ans",
+      "physical_level": "facile",
+      "languages": "français, anglais, allemand",
+      "dietary_restrictions": "aucune",
+      "equipment": "aucun",
+      "category": "visites de cathédrales",
+      "payment_methods":"carte de crédit",
+      "cancellation_policies": "annulation gratuite jusqu'à 48 heures avant l'activité",
+      "interest": ["nature", "sport"],
+      "on_demand": "non",
+      "minimum_number": "1",
+      "transport": "non inclus",
+      "inclusions": [
+        "matériel de plongée inclus",
+        "encadrement par un moniteur diplômé"
+      ],
+      "booking_options": "instantané, programmé",
+      "rating": 4.5, 
+      "photo_album": "https://www.getyourguide.com/img/tour_15_album.jpg",
+      "category_id": "7"
+    }
+  ]
+},
+
+{
+    "categories": [
+      {
+        "id": "1",
+        "name": "visites de musées"
+      },
+      {
+        "id": "2",
+        "name": "visites de monuments"
+      },
+      {
+        "id": "3",
+        "name": "excursions en bus"
+      },
+      {
+        "id": "4",
+        "name": "visites de cathédrales"
+      },
+      {
+        "id": "5",
+        "name": "excursions en bateau"
+      },
+      {
+        "id": "6",
+        "name": "visites de vignobles"
+      },
+      {
+        "id": "7",
+        "name": "visites de parcs nationaux"
+      },
+      {
+        "id": "8",
+        "name": "excursions en 4x4"
+      },
+      {
+        "id": "9",
+        "name": "excursions à vélo"
+      }
+    ]
+  },
+  {
+    "albums": [
+      {
+        "id": "1",
+        "activity_id": "1",
+        "image": "https://www.getyourguide.com/img/tour_1_album_1.jpg"
+      },
+      {
+        "id": "2",
+        "activity_id": "1",
+        "image": "https://www.getyourguide.com/img/tour_1_album_2.jpg"
+      },
+      {
+        "id": "3",
+        "activity_id": "1",
+        "image": "https://www.getyourguide.com/img/tour_1_album_3.jpg"
+      },
+      {
+        "id": "4",
+        "activity_id": "2",
+        "image": "https://www.getyourguide.com/img/tour_2_album_1.jpg"
+      },
+      {
+        "id": "5",
+        "activity_id": "2",
+        "image": "https://www.getyourguide.com/img/tour_2_album_2.jpg"
+      },
+      {
+        "id": "6",
+        "activity_id": "2",
+        "image": "https://www.getyourguide.com/img/tour_2_album_3.jpg"
+      },
+      {
+        "id": "7",
+        "activity_id": "3",
+        "image": "https://www.getyourguide.com/img/tour_3_album_1.jpg"
+      },
+      {
+        "id": "8",
+        "activity_id": "3",
+        "image": "https://www.getyourguide.com/img/tour_3_album_2.jpg"
+      },
+      {
+        "id": "9",
+        "activity_id": "3",
+        "image": "https://www.getyourguide.com/img/tour_3_album_3.jpg"
+      },
+      {
+        "id": "10",
+        "activity_id": "4",
+        "image": "https://www.getyourguide.com/img/tour_4_album_1.jpg"
+      },
+      {
+        "id": "11",
+        "activity_id": "4",
+        "image": "https://www.getyourguide.com/img/tour_4_album_2.jpg"
+      },
+      {
+        "id": "12",
+        "activity_id": "4",
+        "image": "https://www.getyourguide.com/img/tour_4_album_3.jpg"
+      },
+      {
+        "id": "13",
+        "activity_id": "5",
+        "image": "https://www.getyourguide.com/img/tour_5_album_1.jpg"
+      },
+      {
+        "id": "14",
+        "activity_id": "5",
+        "image": "https://www.getyourguide.com/img/tour_5_album_1.jpg"
+      }
+    ]
+},
+{
+    "inclusions": [
+      {
+        "id": "1",
+        "activity_id": "1",
+        "name": "transport depuis votre hôtel"
+      },
+      {
+        "id": "2",
+        "activity_id": "1",
+        "name": "visite guidée en français"
+      },
+      {
+        "id": "3",
+        "activity_id": "2",
+        "name": "matériel de plongée inclus"
+      },
+      {
+        "id": "4",
+        "activity_id": "2",
+        "name": "encadrement par un moniteur diplômé"
+      },
+      {
+        "id": "5",
+        "activity_id": "3",
+        "name": "location de vélo incluse"
+      },
+      {
+        "id": "6",
+        "activity_id": "3",
+        "name": "casque et verrou de sécurité inclus"
+      },
+      {
+        "id": "7",
+        "activity_id": "4",
+        "name": "couteaux et toques de chef inclus"
+      },
+      {
+        "id": "8",
+        "activity_id": "4",
+        "name": "repas et boissons inclus"
+      },
+      {
+        "id": "9",
+        "activity_id": "5",
+        "name": "visite guidée en français"
+      },
+      {
+        "id": "10",
+        "activity_id": "5",
+        "name": "entrée au musée incluse"
+      }
+    ]
+  }
+  
+ 
+]
